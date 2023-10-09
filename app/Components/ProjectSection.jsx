@@ -41,6 +41,15 @@ const projectsData = [
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Raiden126/movieBattle",
   },
+  {
+    id: 5,
+    title: "React Responsive Portfolio",
+    description:
+      "This is my portfolio and is a dynamic and responsive website created using React, a popular JavaScript library. It serves as an interactive showcase of my professional achievements, skills, and projects.",
+    image: "/images/projects/img11.png",
+    tag: ["All", "Web", "Responsive"],
+    gitUrl: "https://github.com/Raiden126/Portfolio",
+  },
 ];
 
 const ProjectSection = () => {
